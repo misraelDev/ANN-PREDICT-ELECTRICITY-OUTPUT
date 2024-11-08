@@ -25,6 +25,10 @@ pip install tensorflow pandas numpy scikit-learn
 5. 🏋️ Entrenar la red neuronal artificial.
 6. 🔮 Predecir los resultados del conjunto de prueba.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c2686d41-27b0-407a-8a66-bd4b0e83806b" alt="ANN_Architecture">
+</p>
+
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request.
